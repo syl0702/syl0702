@@ -19,7 +19,7 @@
 
 ## 2. 레시피 프로젝트
 * 이미지 기반으로 레시피를 검색하거나 게시글 작성이 가능하고 사용자별 활동에 따른 추천 서비스가 있는 레시피 사이트 제작 프로젝트.
-* 역할: 팀장/레시피 데이터 크롤링 및 정제/CNN 기반 이미지 검색 기능/취향 기반 추천 서비스 모델링/개인화 추천 서비스 모델링
+* 역할: 팀장/크롤링/데이터 분석/CNN, 취향테스트기반 추천, FastText모델링 및 모듈화/Airflow 파이프라인 구현/보고서
 <!--
 **syl0702/syl0702** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

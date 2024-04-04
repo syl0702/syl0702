@@ -1,5 +1,25 @@
-### Hi there 👋
+## 이서연의 Portfolio 👋
+---
+### 끈기를 통해 늘 성장해 나가는 이서연입니다.
+<img src= "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src= "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 
+📗 **목차**
+- **yt_pjt**: 유튜브 실시간 인기 급상승 동영상들(이하 인급동)의 카테고리별 분석을 통한 인급동의 요인과 트렌드 파악 프로젝트
+- **multi_recipe_pjt** : 이미지 기반 검색 및 자동 완성 기능을 가진 레시피 사이트 제작 프로젝트
+- **Dacon_chuseok** : 추석 특산물 분류 관련 데이터 경진대회 참여 프로젝트
+- **Dacon_climate** :기온 예측 관련 데이터 경진대회 참여 프로젝트
+- **Kaggle link** : Kaggle 데이터 기반 고객 데이터 세그멘테이션 독학 프로젝트
+
+
+## 1. 유튜브 프로젝트
+* 한 달 간의 유튜브 실시간 인기 급상승 동영상 분석을 통한 인기 급상승의 요인과 카테고리별 트렌드 파악 프로젝트.
+* 역할: 팀장/유튜브 영상 자막 추출/전체 경향성 분석/보고서 작성
+
+
+
+## 2. 레시피 프로젝트
+* 이미지 기반으로 레시피를 검색하거나 게시글 작성이 가능하고 사용자별 활동에 따른 추천 서비스가 있는 레시피 사이트 제작 프로젝트.
+* 역할: 팀장/레시피 데이터 크롤링 및 정제/CNN 기반 이미지 검색 기능/취향 기반 추천 서비스 모델링/개인화 추천 서비스 모델링
 <!--
 **syl0702/syl0702** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

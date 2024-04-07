@@ -20,6 +20,16 @@
 ## 2. 레시피 프로젝트
 * 이미지 기반으로 레시피를 검색하거나 게시글 작성이 가능하고 사용자별 활동에 따른 추천 서비스가 있는 레시피 사이트 제작 프로젝트.
 * 역할: 팀장/크롤링/데이터 분석/CNN, 취향테스트기반 추천, FastText모델링 및 모듈화/Airflow 파이프라인 구현/보고서
+
+## 3. Dacon_chuseok
+* 추석 특산물 분류 분석 관련 데이터 경진대회 참여.
+* 다양한 종류의 인코딩(원핫인코딩 등) 학습.
+* 함수를 활용한 효율적 코드 고민.
+
+## 4. Dacon_climate
+* 약 30년 간의 서울 일일 기온 추세를 통한 기온 예측 데이터 경진대회
+* 시계열 모델링 관련한 전반적인 공부.
+* SARIMA 모델링 관련 공부.
 <!--
 **syl0702/syl0702** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

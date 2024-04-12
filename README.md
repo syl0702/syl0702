@@ -30,6 +30,13 @@
 * 약 30년 간의 서울 일일 기온 추세를 통한 기온 예측 데이터 경진대회
 * 시계열 모델링 관련한 전반적인 공부.
 * SARIMA 모델링 관련 공부.
+
+## 5. Kaggle Customer Segmentation Study
+* link: https://www.kaggle.com/code/sylee0702/customer-marketing-analysis/notebook
+* 고객 세그멘테이션 공부를 위해 kaggle data를 선정해 데이터 분석
+* K-Means로 세그멘테이션을 시도함.
+
+
 <!--
 **syl0702/syl0702** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

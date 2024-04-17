@@ -1,14 +1,14 @@
-## 이서연의 Portfolio 👋
+## Portfolio of Seoyon Lee👋
 ---
-### 끈기를 통해 늘 성장해 나가는 이서연입니다.
+### Continue to grow through persistence
 <img src= "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src= "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 
-📗 **목차**
-- **yt_pjt**: 유튜브 실시간 인기 급상승 동영상들(이하 인급동)의 카테고리별 분석을 통한 인급동의 요인과 트렌드 파악 프로젝트
-- **recipe_site_pjt** : 이미지 기반 검색 및 자동 완성 기능을 가진 레시피 사이트 제작 프로젝트
-- **Dacon_chuseok** : 추석 특산물 분류 관련 데이터 경진대회 참여 프로젝트
-- **Dacon_climate** :기온 예측 관련 데이터 경진대회 참여 프로젝트
-- **Kaggle link** : Kaggle 데이터 기반 고객 데이터 세그멘테이션 독학 프로젝트
+📗 **Index**
+- **yt_pjt**: Finding Trending factors and Identifying the trends via analysis by category of YouTube Trending videos
+- **recipe_site_pjt** : Recipe Site Creation project with image based search and auto-completion features
+- **Dacon_chuseok** : Data Contest project on classifying holiday specialties
+- **Dacon_climate** : Data Contest project on predicting temperatures
+- **Kaggle link** : Self-studying project on Customer Data Segmentation based on Kaggle Data
 
 
 ## 1. 유튜브 프로젝트 (2023/10/06-2023/10/29)

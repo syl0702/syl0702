@@ -11,13 +11,12 @@
 - **Kaggle link** : Self-studying project on Customer Data Segmentation based on Kaggle Data
 
 
-## 1. 유튜브 프로젝트 (2023/10/06-2023/10/29)
-* 한 달 간의 유튜브 실시간 인기 급상승 동영상 분석을 통한 인기 급상승의 요인과 카테고리별 트렌드 파악 프로젝트.
-* 역할: 팀장/유튜브 영상 자막 추출/전체 경향성 분석/보고서 작성
+## 1. Youtube Project (2023/10/06-2023/10/29)
+* Finding Trending factors and Identifying the trends through analysis by category on YouTube Trending Videos of September 2023
+* Role: Team Leader/Extracting YouTube video subtitle/Analysis of Overall Trends/ Writing Reports
 
 
-
-## 2. 레시피 프로젝트 (2023/11/24-2024/01/05)
+## 2. Recipe Project (2023/11/24-2024/01/05)
 * 이미지 기반으로 레시피를 검색하거나 게시글 작성이 가능하고 사용자별 활동에 따른 추천 서비스가 있는 레시피 사이트 제작 프로젝트.
 * 역할: 팀장/크롤링/데이터 분석/CNN, 취향테스트기반 추천, FastText모델링 및 모듈화/Airflow 파이프라인 구현/보고서
 

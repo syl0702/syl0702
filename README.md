@@ -17,9 +17,8 @@
 
 
 ## 2. Recipe Project (2023/11/24-2024/01/05)
-* 이미지 기반으로 레시피를 검색하거나 게시글 작성이 가능하고 사용자별 활동에 따른 추천 서비스가 있는 레시피 사이트 제작 프로젝트.
-* 역할: 팀장/크롤링/데이터 분석/CNN, 취향테스트기반 추천, FastText모델링 및 모듈화/Airflow 파이프라인 구현/보고서
-
+* Recipe Site Creation project in which users can search or write recipe based on image, and experience various recommendation service according to each user's activity.
+* Role: Team Leader/Crawling recipes/Data Analysis/CNN Modeling, CNN, Recommendation model based on taste test, Fast Text Modeling and Modularization/Building Airflow pipeline/Report
 ## 3. Dacon_chuseok
 * 추석 특산물 분류 분석 관련 데이터 경진대회 참여.
 * 다양한 종류의 인코딩(원핫인코딩 등) 학습.

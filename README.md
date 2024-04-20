@@ -20,9 +20,9 @@
 * Recipe Site Creation project in which users can search or write recipe based on image, and experience various recommendation service according to each user's activity.
 * Role: Team Leader/Crawling recipes/Data Analysis/CNN Modeling, CNN, Recommendation model based on taste test, Fast Text Modeling and Modularization/Building Airflow pipeline/Report
 ## 3. Dacon_chuseok
-* 추석 특산물 분류 분석 관련 데이터 경진대회 참여.
-* 다양한 종류의 인코딩(원핫인코딩 등) 학습.
-* 함수를 활용한 효율적 코드 고민.
+* Data Contest Project on classifying hoilday specialties.
+* Learned diverse encoding methods.
+* Thought about efficient code using functions.
 
 ## 4. Dacon_climate
 * 약 30년 간의 서울 일일 기온 추세를 통한 기온 예측 데이터 경진대회

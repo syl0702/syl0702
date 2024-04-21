@@ -19,15 +19,16 @@
 ## 2. Recipe Project (2023/11/24-2024/01/05)
 * Recipe Site Creation project in which users can search or write recipe based on image, and experience various recommendation service according to each user's activity.
 * Role: Team Leader/Crawling recipes/Data Analysis/CNN Modeling, CNN, Recommendation model based on taste test, Fast Text Modeling and Modularization/Building Airflow pipeline/Report
+
 ## 3. Dacon_chuseok
 * Data Contest Project on classifying hoilday specialties.
 * Learned diverse encoding methods.
 * Thought about efficient code using functions.
 
 ## 4. Dacon_climate
-* 약 30년 간의 서울 일일 기온 추세를 통한 기온 예측 데이터 경진대회
-* 시계열 모델링 관련한 전반적인 공부.
-* SARIMA 모델링 관련 공부.
+* Data Contest Project on predicting Seoul temperature based on Seoul daily temperature trend for about 30 years
+* General study on time series modeling such as ARIMA.
+
 
 ## 5. Kaggle Customer Segmentation Study
 * link: https://www.kaggle.com/code/sylee0702/customer-marketing-analysis/notebook

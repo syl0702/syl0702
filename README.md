@@ -32,8 +32,8 @@
 
 ## 5. Kaggle Customer Segmentation Study
 * link: https://www.kaggle.com/code/sylee0702/customer-marketing-analysis/notebook
-* 고객 세그멘테이션 공부를 위해 kaggle data를 선정해 데이터 분석
-* K-Means로 세그멘테이션을 시도함.
+* Study project for Customer Segmentation with selected Kaggle Data
+* General study on K-Means
 
 
 <!--

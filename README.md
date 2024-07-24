@@ -34,6 +34,7 @@
 * link: https://www.kaggle.com/code/sylee0702/customer-marketing-analysis/notebook
 * Study project for Customer Segmentation with selected Kaggle Data
 * General study on K-Means
+* Studied deeply about analysis on customer behavior
 
 
 <!--
